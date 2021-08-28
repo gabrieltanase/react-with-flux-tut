@@ -15,7 +15,7 @@ function SelectInput(props) {
           id={props.id}
           name={props.name}
           onChange={props.onChange}
-          value={props.value || ""}
+          value={props.value}
           className="form-control"
         >
           <option value="" />
@@ -32,7 +32,7 @@ SelectInput.propTypes = {
   id: PropTypes.string.isRequired,
   name: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired,
-  value: PropTypes.string,
+  value: PropTypes.number,
   error: PropTypes.string,
 }
 
