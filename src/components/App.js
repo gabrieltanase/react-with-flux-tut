@@ -9,6 +9,13 @@ import ManageCoursePage from './ManageCoursePage';
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+/** TODO: 
+ * Show 404 page for bogus slug
+ * Display author name on CoursesPage
+ * Populate author dropdown via API data
+ * Create a reusable dropdown component : DONE
+ * Add author management
+ */
 function App() {
   return (
     <div className="container-fluid">
