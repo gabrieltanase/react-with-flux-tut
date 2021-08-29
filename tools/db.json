@@ -72,19 +72,19 @@
     },
     {
       "id": 11,
-      "slug": "test-wit-toast",
-      "title": "test wit toast",
-      "authorId": 2,
-      "category": "toast",
-      "createdAt": 1630175594224
+      "slug": "sasa",
+      "title": "sasa",
+      "authorId": 1,
+      "category": "asasas",
+      "createdAt": 1630233561561
     },
     {
       "id": 12,
-      "slug": "asdgahsfa",
-      "title": "asdgahsfa",
+      "slug": "ssasa",
+      "title": "ssasa",
       "authorId": 1,
-      "category": "asasa",
-      "createdAt": 1630176461388
+      "category": "sasa",
+      "createdAt": 1630233731322
     }
   ],
   "authors": [

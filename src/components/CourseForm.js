@@ -25,7 +25,7 @@ function CourseForm(props) {
 
       <TextInput
         id="category"
-        label="Category"
+        label="Category" 
         name="category"
         onChange={props.onChange}
         value={props.course.category}
