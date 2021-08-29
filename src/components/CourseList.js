@@ -33,7 +33,7 @@ function CourseList(props) {
 }
 
 CourseList.propTypes = {
-  deleteCourse: PropTypes.func.isRequired,
+  onDeleteCourse: PropTypes.func.isRequired,
   courses: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
